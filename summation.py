@@ -6,4 +6,5 @@ def sum_(x, y):
     params: y: Int
     return: Int: summation of x & y
     """
+    print("Hello")
     return x+y

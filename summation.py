@@ -8,4 +8,6 @@ def sum_(x, y):
     """
     print("Hello")
     z=10
+    print("Hi")
+    
     return x+y

@@ -7,4 +7,5 @@ def sum_(x, y):
     return: Int: summation of x & y
     """
     print("Hello")
-    return x+y+10
+    z=10
+    return x+y
